@@ -1,0 +1,29 @@
+Artificial Intelligence (AI) is a branch of computer science focused on building systems that can perform tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning (ML) is a subset of artificial intelligence that enables systems to learn from data without being explicitly programmed. Instead of following fixed rules, machine learning models identify patterns in historical data and use them to make predictions or decisions.
+
+Supervised learning is a type of machine learning where the model is trained on labeled data. Each training example includes both input features and the correct output. Common supervised learning algorithms include linear regression, logistic regression, decision trees, and support vector machines.
+
+Unsupervised learning is used when the data does not contain labeled outputs. The goal is to discover hidden patterns or structures in the data. Popular unsupervised learning techniques include clustering algorithms such as K-Means and hierarchical clustering.
+
+Deep Learning is a specialized subset of machine learning that uses neural networks with multiple hidden layers. These deep neural networks are capable of learning complex patterns from large amounts of data. Deep learning is widely used in image recognition, speech recognition, and natural language processing.
+
+Natural Language Processing (NLP) is a field of AI that focuses on enabling machines to understand, interpret, and generate human language. NLP applications include chatbots, language translation systems, sentiment analysis, and text summarization.
+
+Vector databases are designed to store and search high-dimensional vectors efficiently. These vectors are typically generated from machine learning models and represent semantic meaning. Vector databases enable fast similarity search, which is essential for applications like semantic search and recommendation systems.
+
+Semantic search improves traditional keyword-based search by understanding the meaning of a query rather than matching exact words. By using vector embeddings, semantic search retrieves results that are contextually relevant even if the exact terms are not present.
+
+Retrieval Augmented Generation (RAG) is an AI architecture that combines information retrieval with text generation. In a RAG system, relevant documents are first retrieved using a vector database, and then a language model generates answers using the retrieved context.
+
+In a RAG pipeline, document embeddings are stored in a vector database such as Endee. When a user submits a query, the query is converted into a vector and compared with stored document vectors to find the most relevant information.
+
+Endee Vector Database is used to manage vector storage and perform similarity search operations efficiently. It supports high-performance indexing and querying, making it suitable for AI-driven applications that rely on semantic similarity.
+
+AI-powered recommendation systems use vector similarity to suggest relevant items to users. Examples include movie recommendations, product suggestions, and content personalization systems.
+
+Agentic AI systems extend traditional AI applications by allowing models to take actions, make decisions, and interact with tools autonomously. These systems often combine retrieval, reasoning, and execution steps in a loop.
+
+Real-world applications of AI and machine learning include healthcare diagnosis, fraud detection, autonomous vehicles, weather forecasting, and intelligent virtual assistants.
+
+As AI systems grow more complex, scalable infrastructure such as vector databases, cloud computing, and efficient machine learning pipelines becomes increasingly important.
