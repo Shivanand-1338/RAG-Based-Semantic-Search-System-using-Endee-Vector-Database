@@ -10,7 +10,7 @@ res = client.models.generate_content(
 print(res.text)
 # from google import genai
 
-# client = genai.Client(api_key="AIzaSyAtpEj0mn0UhgG7Jh_TEVnINjnz2EpJzAk")
+# client = genai.Client(api_key="GEMINI_API_KEY")
 
 # models = client.models.list()
 
